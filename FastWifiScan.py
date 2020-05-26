@@ -117,7 +117,7 @@ FastWifiscanner.py 192.168.1. 256 0.5
         except:
                                         print("""
 
-FastWifiScaner.py [GATEWAY] [HILOS RECOMENDADO 256] [TIEMPO DE TIMEOUT EN SEGUNDOS RECOMENDADO 0.5]
+FastWifiScaner.py [GATEWAY QUITANDOLE EL ÚLTIMO DÍGITO] [HILOS RECOMENDADO 256] [TIEMPO DE TIMEOUT EN SEGUNDOS RECOMENDADO 0.5]
 EJEMPLO:
 FastWifiScaner.py 192.168.1. 256 0.5
                         """)
