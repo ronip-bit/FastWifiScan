@@ -7,7 +7,7 @@ Un escáner de dispositivos conectados a una red WiFi de alta velocidad.
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VD4JwqF/Fast-Wifi-Scan.png" alt="Fast-Wifi-Scan" border="0"></a>
 
 Actualmente tiene una velocidad en distribuciónes Linux superior a la de nmap, es cierto que en Windows puede reducir su velocidad pero aún así compite con nmap.
-.
+
 Características positivas:
 
 1. El escáner no gasta muchos recursos del sistema.
@@ -34,7 +34,6 @@ python3 FastWifiScan.py 192.168.1. 256 0.5
 Probado en:
 
 1. Parrot OS.
-
 2. Ubuntu 18.04.
 3. Windows 10.
 4. Termux.
