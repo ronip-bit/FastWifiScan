@@ -1,7 +1,5 @@
 # FastWifiScan
-Un escáner de dispositivos conectados a una red WiFi
-
-i-Fi de alta velocidad.
+Un escáner de dispositivos conectados a una red WiFi de alta velocidad.
 
  Velocidad:
 
