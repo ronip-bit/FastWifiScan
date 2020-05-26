@@ -36,6 +36,7 @@ Probado en:
 1. Parrot OS.
 2. Ubuntu 18.04.
 3. Windows 10.
-4. Termux.
+4. Debian 10.
+5. Termux.
 
 
