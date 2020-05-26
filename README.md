@@ -33,9 +33,9 @@ python3 FastWifiScan.py 192.168.1. 256 0.5
 
 Probado en:
 
-Parrot OS
-Ubuntu 18.04
-Windows 10
-Termux
+Parrot OS.
+Ubuntu 18.04.
+Windows 10.
+Termux.
 
 
