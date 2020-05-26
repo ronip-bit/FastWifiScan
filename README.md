@@ -25,11 +25,11 @@ Características negativas:
 
 Uso:
 
-FastWifiScaner.py [GATEWAY] [HILOS RECOMENDADO 256] [TIEMPO DE TIMEOUT EN SEGUNDOS RECOMENDADO 0.5]
+FastWifiScan.py [GATEWAY] [HILOS RECOMENDADO 256] [TIEMPO DE TIMEOUT EN SEGUNDOS RECOMENDADO 0.5]
 
 Ejemplo:
 
-python3 FastWifiScaner.py 192.168.1. 256 0.5
+python3 FastWifiScan.py 192.168.1. 256 0.5
 
 Probado en:
 
