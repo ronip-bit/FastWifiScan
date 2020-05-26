@@ -15,7 +15,8 @@ Características positivas:
 3. Muy veloz y versátil.
 4. Funciona en varios SO.
 5. El script funciona en múltiples hilos.
-6. Es open source.
+7. Detecta el SO de los equipos conectados a la red por su TTL.
+7. Es open source.
 
 Características negativas:
 
