@@ -3,8 +3,8 @@ Un escáner de red de alta velocidad.
 
  Velocidad:
 
-<a href="https://subefotos.com/ver/?83488be39496f8e3e7351b97b02e0a95o.png" target="_blank"><img src="http://thumbs.subefotos.com/83488be39496f8e3e7351b97b02e0a95o.jpg" /></a>
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/VD4JwqF/Fast-Wifi-Scan.png" alt="Fast-Wifi-Scan" border="0"></a>
 
 Actualmente tiene una velocidad en distribuciónes Linux superior a la de nmap, es cierto que en Windows puede reducir su velocidad pero aún así compite con nmap.
 
