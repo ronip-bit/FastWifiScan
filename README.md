@@ -1,5 +1,7 @@
 # FastWifiScan
-Un escáner de red Wi-Fi de alta velocidad.
+Un escáner de dispositivos conectados a una red WiFi
+
+i-Fi de alta velocidad.
 
  Velocidad:
 
@@ -7,7 +9,7 @@ Un escáner de red Wi-Fi de alta velocidad.
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VD4JwqF/Fast-Wifi-Scan.png" alt="Fast-Wifi-Scan" border="0"></a>
 
 Actualmente tiene una velocidad en distribuciónes Linux superior a la de nmap, es cierto que en Windows puede reducir su velocidad pero aún así compite con nmap.
-
+.
 Características positivas:
 
 1. El escáner no gasta muchos recursos del sistema.
