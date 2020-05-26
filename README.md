@@ -1,5 +1,5 @@
 # FastWifiScan
-Un escáner de red de alta velocidad.
+Un escáner de red Wi-Fi de alta velocidad.
 
  Velocidad:
 
