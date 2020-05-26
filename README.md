@@ -1,7 +1,7 @@
 # FastWifiScan
 Un escáner de dispositivos conectados a una red WiFi de alta velocidad.
 
- Velocidad:
+ PoC:
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VD4JwqF/Fast-Wifi-Scan.png" alt="Fast-Wifi-Scan" border="0"></a>
